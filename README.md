@@ -1,3 +1,3 @@
 # vntnt
 
-Simple convertor from .vnt format into plain text.
+Simple converter from .vnt format into plain text.

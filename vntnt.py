@@ -1,12 +1,12 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-"""Simple .vnt into text convertor.
+"""Simple .vnt into text converter.
 
 This script converts .vnt files used to store notes on Samsung devices
 into plain text.
 
-Usage: 
+Usage:
     $ python vntnt.py <input directory> <output directory>
 
 For each .vnt file in input directory (non-recursive) it creates a .txt
